@@ -17,7 +17,7 @@ preparing for **coding interviews and contests**.
 
 ## 🧩 Platforms Covered
 
-- LeetCode  
+- LeetCode : https://leetcode.com/u/manyashukla___/
 - GeeksforGeeks  
 - Codeforces    
 
