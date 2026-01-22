@@ -1,6 +1,6 @@
 # Problem-Solving | Data Structures & Algorithms Practice
 
-This repository contains my **competitive programming and DSA practice** solutions.
+ This repository contains my **competitive programming and DSA practice** solutions.
 The focus is on building strong **problem-solving skills**, writing **efficient code**, and
 preparing for **coding interviews and contests**.
 
