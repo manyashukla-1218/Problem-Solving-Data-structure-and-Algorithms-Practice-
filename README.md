@@ -26,6 +26,7 @@ preparing for **coding interviews and contests**.
 ## 💻 Languages Used
 
 - **C++** (Primary)
+- **Java* 
 
 ---
 
